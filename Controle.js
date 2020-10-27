@@ -1,5 +1,6 @@
 
-/*Escreval("Digite o nome do aluno: ")
+/*
+Escreval("Digite o nome do aluno: ")
  Leia(Nome)
 Escreval("Digite a nota 1: ")
  leia (N1)
@@ -11,7 +12,8 @@ Escreval("Digite a nota 2: ")
         Escreval("Aprovado", nome)
         Senao
         Escreval("Reprovado", nome)
-    Fimse*/
+    Fimse
+*/
 
 var nome, N1, N2, media;
     nome = prompt("Digite o nome do aluno: ")
