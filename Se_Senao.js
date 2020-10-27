@@ -1,35 +1,4 @@
 
-/*
-var
-   N1, N2, S: Real
-   Op: caractere
-inicio
-
-      Escreval(" Informe o primeiro numero: ")
-      Leia (N1)
-      Escreval(" Informe a operação Ex: + , - , * , / .")
-      Leia (Op)
-      Escreval(" Informe o segundo numero: ")
-      Leia (N2)
-
-      Se op = "+" Entao
-         S <- N1+N2
-      Senao
-           Se op = "-" Então
-               S <- N1-N2
-           Senao
-                Se op = "*" Entao
-                   S <- N1*N2
-                Senao
-                     Se Op = "/" entao
-                        S<- N1/N2
-                     Fimse
-                Fimse
-           Fimse
-      Fimse
-
-      Escreval("Seu resultado é: ", S)
-*/
 
 var n1, n2, s, op
 

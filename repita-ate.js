@@ -1,23 +1,4 @@
-/*
-Var
-     sairloop: caractere
-     v1, v2:real
 
-     inicio
-
-        repita
-            escreva("Digite o primeiro valor")
-            leia(v1)
-            escreva("Digite o seggundo valor")
-            leia(v2)
-            escreval("Resultado", v1+v2)
-            escreval("Deseja sair? S/N"
-            leia (sairloop)
-        ate sairloop <> "N"
-
-Fimalgoritmo
-
-*/ 
 
 function acaoBotao () {
     var sairloop, v1, v2

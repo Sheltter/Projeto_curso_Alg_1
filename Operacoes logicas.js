@@ -1,24 +1,3 @@
-/*
- passou <- falso
-     Escreval(" Nome do aluno 1: ")
-     leia (nome)
-     Escreval(" Nota 1: ")
-     leia(n1)
-     Escreval(" Nota 2: ")
-     leia(n2)
-     Media <- (n1 + n2) /2
-     
-      Se media >= 50 então
-       Passou<- Verdadeiro
-      Fimse
-      
-      Se ( aassou ) && ( Media >= 50 || media <= 70) entao
-           Escreval("Reprovado ", nome)
-      Senao
-           Escreval("Aprovado ", nome)
-      Fimse
-*/
-
 var nome, nota01, nota02;
 
 passou = false;
